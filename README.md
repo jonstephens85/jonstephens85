@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jonathan Stephens
-- 👀 I’m interested in computer vision/photogrammetry, spatial computing, and game engines
+- 👀 I’m interested in computer vision, machine learning, and neural networks.
 - 🌱 I’m currently learning what is a better environment for point clouds in game engines - Unity vs UE4
-- 💞️ I’m looking to collaborate on photogrammetry projects via EveryPoint
+- 💞️ I’m looking to collaborate on industrial and telecome spatial computing projects via EveryPoint
 - 📫 How to reach me jonathan.stephens@everypoint.io
 
 <!---
